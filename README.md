@@ -1,1 +1,1 @@
-# CodingG
+# Interesting algorithms encountered in Coding game puzzles
